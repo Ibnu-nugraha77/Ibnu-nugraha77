@@ -1,4 +1,4 @@
-<h1 align="center">WELCOME DAWG WEW</h1>
+<h1 align="center">SELAMAT DATANG DAWG</h1>
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/Ibnu-nugraha77/Ibnu-nugraha77/main/assets/bakekok.gif">
